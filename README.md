@@ -1,19 +1,19 @@
-## Inspiration
+## minutes
 
 
 ## What it does
 
 
-## How I built it
 
 
-## Challenges I ran into
 
 
-## Accomplishments that I'm proud of
 
 
-## What I learned
+
+
+## How We built it
+
 
 
 ## What's next?
