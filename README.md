@@ -49,3 +49,7 @@ Everything
 Motivations, Expectations, & Goals:
 Continue learning about the AWS ML Api's and integrate them fully.
 Get in contact with medical centers for support and assistance with patient records.
+
+## Sources
+https://suicidepreventionlifeline.org/wp-content/uploads/2016/09/Lifeline-Follow-Up-Guidance1214.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4061646/
