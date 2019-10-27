@@ -35,6 +35,8 @@ JAVASCRIPT
 SWEAT
 BLOOD
 TEARS
+HEROKU
+PHP
 
 ## Challenges we ran into
 
