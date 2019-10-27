@@ -52,7 +52,10 @@ Get in contact with medical centers for support and assistance with patient reco
 
 ## Sources
 https://suicidepreventionlifeline.org/wp-content/uploads/2016/09/Lifeline-Follow-Up-Guidance1214.pdf
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4061646/
+
 https://www.healthcatalyst.com/success_stories/mental-health-readmission-rates-allina
+
 https://crossroadsantigua.org/what-is-aftercare-and-why-is-it-important/#targetText=Aftercare%20Helps%20Prevent%20Relapse,high%20level%20of%20self%2Dcare.&targetText=Engaging%20in%20the%20components%20of,months%20of%20post%2Dtreatment%20sobriety.
 
